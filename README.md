@@ -1,4 +1,12 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbeat30&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+👋 Hi there! I'm a passionate Frontend Developer.  
+🌱 I'm fully committed to learning and growing  
+💻 Currently exploring React, Next.js, and other modern web technologies.  
+🚀 I believe in writing clean, efficient, and maintainable code.  
+📚 Always eager to learn, solve problems, and collaborate with others.
+
+Feel free to check out my projects and let's connect! 😊
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbeat30&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :books: Core Stacks
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
