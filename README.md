@@ -1,5 +1,4 @@
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jbeat30&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jbeat30&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
 ### :books: Core Stacks
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
