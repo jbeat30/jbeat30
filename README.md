@@ -1,9 +1,42 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jbeat30&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
-### :books: Core Stacks
- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+
+<h1>Hi, I'm 강주빛 👋</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C8EF5&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+%26+TypeScript;Building+things+for+the+web)](https://git.io/typing-svg)
+
+<a href="https://github.com/jbeat30"><img src="https://img.shields.io/github/followers/jbeat30?style=social" alt="followers" /></a>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 프론트엔드 개발자로 일하고 있어요
+- 📍 Bucheon, South Korea
+- 📫 Contact: jbeat0630@gmail.com
+
+---
+
+### 📚 Core Stacks
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=jbeat30&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long&hide_border=true" alt="GitHub stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jbeat30&layout=compact&theme=calm&hide_border=true" alt="Top languages" />
+
+</div>
